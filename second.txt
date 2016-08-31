@@ -1,1 +1,2 @@
 my second file
+secnd line in second file
