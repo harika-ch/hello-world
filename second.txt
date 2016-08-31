@@ -1,1 +1,2 @@
 my second file extra characters
+secnd line in second file
